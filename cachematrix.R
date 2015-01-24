@@ -4,6 +4,7 @@
 ## When extracting the inverse, an attempt is made to
 ## retrieve cached data. If nothing has been stored, the
 ## inverse is calculated from scratch.
+## Code inspired by vector mean example in assignment instructions
 
 ## This function defines a matrix-type object
 ## capable of caching its inverse. 
